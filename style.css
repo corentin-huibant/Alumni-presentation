@@ -1,3 +1,18 @@
+#presentation_contents {
+  height: 350px;
+  width: 600px;
+  background: #E9D09E;
+  background-color:#E9D09E;
+  border:10px solid #000000;
+  padding:5px;
+  /*arrondir les coins en haut à gauche et en bas à droite*/
+  -moz-border-radius:10px 0;
+  -webkit-border-radius:10px 0;
+  border-radius: 20px 20px 20px / 20px 20px;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
 h1 {
   font-size: 12px;
 }
