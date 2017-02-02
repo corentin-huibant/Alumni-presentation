@@ -1,4 +1,9 @@
+h1 {
+  font-size: 12px;
+}
+h2 {
+   font-size: 14px;
+}
 p {
-  height: 37px;
-  width: 100%;
+   font-size: 14px;
 }
