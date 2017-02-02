@@ -6,8 +6,8 @@ body {
 }
 
 #presentation_contents {
-  height: 300px;
-  width: 600px;
+  height: 330px;
+  width: 670px;
   background: #E9D09E;
   background-color:#E9D09E;
   border:10px solid #000000;
@@ -16,15 +16,15 @@ body {
   -moz-border-radius:10px 0;
   -webkit-border-radius:10px 0;
   border-radius: 20px 20px 20px / 20px 20px;
-  margin-top: 13%;
-  margin-left: 27%;
+  margin-top: 11%;
+  margin-left: 23%;
 }
 
 h1 {
   font-size: 12px;
 }
 h2 {
-   font-size: 14px;
+   font-size: 16px;
 }
 p {
-   font-size: 14px;
+   font-size: 16px;
