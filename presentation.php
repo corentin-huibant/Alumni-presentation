@@ -13,20 +13,16 @@
             <h2>ALUMNI E2N, le réseau des nouveaux développeur de sites web
               et d’applications mobiles, intégrateur, référent numérique,
               datartisan, e-commerçant…</h2>
-            <p>Entreprise de l’économie sociale et solidaire (agrément ESUS),
-              Simplon.co est un réseau de « fabriques » (écoles) qui propose
-              des formations GRATUITES pour devenir développeur de sites web
-              et d’applications mobiles, intégrateur, référent numérique,
-              datartisan, e-commerçant… et bien d’autres métiers numériques
-              “en tension” qui permettent de trouver rapidement un emploi ou
-              de créer sa propre activité. Ces formations, qualifiantes ou certifiantes,
-              s’adressent prioritairement aux personnes éloignées de l’emploi
-              (jeunes de moins de 25 ans, peu ou pas diplômées, issues des quartiers populaires
-              et des milieux ruraux, demandeurs d’emplois de longue durée, seniors, personnes
-              en situation de handicap, personnes réfugiées), et sont ouvertes sur critères
-              sociaux et avec un objectif de parité hommes-femmes mais sans aucun pré-requis
-              technique (débutants acceptés). En revanche, il est obligatoire d’avoir une très forte
-              MOTIVATION, une appétence forte pour le numérique et d’aimer travailler en équipe !</p></td>
+            <p>l’E2N (pour École du Numérique du Noyonnais) est un projet initié par la
+               communauté de communes du pays Noyonnais, qui est aujourd’hui porté par
+               Novei formation et simplon,co,
+                    </br>
+               E2N est une formation qui forme aux métiers du numérique et du développement Web,
+               basée sur le Campus Inovia à Noyon. Entièrement gratuite pour ses apprenant(e)s, la formation est soutenue et immersive (35 heures par semaine) sur une durée de six mois.
+                    </br>
+               Après deux semaines de test intensives, les élèves décident si ils veulent
+               poursuive ou non la formation une fois leur décision prise  ils ont six mois
+               pour atteindre leur but : faire de la création et l’animation de sites Internet.</p></td>
             </tr>
           </table>
         </div>
