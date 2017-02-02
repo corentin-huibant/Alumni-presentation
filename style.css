@@ -1,4 +1,6 @@
-p {
-  height: 37px;
-  width: 100%;
+body {
+  background-image:url(image/photo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }

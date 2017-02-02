@@ -6,6 +6,5 @@
     <title>presentation</title>
   </head>
   <body>
-    <p>Toto</p>
   </body>
 </html>
