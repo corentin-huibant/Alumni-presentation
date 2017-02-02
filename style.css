@@ -1,3 +1,10 @@
+body {
+  background-image:url(https://files.slack.com/files-tmb/T04735J22-F40MYSMST-f17f6b18ca/photo_1024.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 #presentation_contents {
   height: 300px;
   width: 600px;
@@ -9,8 +16,8 @@
   -moz-border-radius:10px 0;
   -webkit-border-radius:10px 0;
   border-radius: 20px 20px 20px / 20px 20px;
-  margin-top: 10%;
-  margin-left: 10%;
+  margin-top: 13%;
+  margin-left: 27%;
 }
 
 h1 {
@@ -21,4 +28,3 @@ h2 {
 }
 p {
    font-size: 14px;
-}
