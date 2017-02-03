@@ -27,14 +27,19 @@
      var year=time.getYear();
      if (year < 2000)
      year = year + 1900;
-     document.write("Aujourd'hui " +date + " ");
+     document.write("Vendredi" + date + " ");
      document.write(month + " " + year);
      </SCRIPT>
    </fieldset>
+
    <div id = "presentation_bloc1">
    <table width="0%" border="0" align="center">
+     <fieldset>
+       <strong>Nos partenaires :</strong>
+     </fieldset>
      </table>
    </div>
+
   <div id="presentation_contents">
     <table width="0%" border="0" align="center">
       <tr>
@@ -49,6 +54,18 @@
             <p>E2N est une formation qui forme aux métiers du numérique et du développement Web,
             basée sur le Campus Inovia à Noyon. Entièrement gratuite pour ses apprenant(e)s,
             la formation est soutenue et immersive (35 heures par semaine) sur une durée de six mois.</p>
+
+          <p>Après deux semaines de test intensives, les élèves décident si ils veulent
+          poursuive ou non la formation une fois leur décision prise  ils ont six mois
+          pour atteindre leur but : faire de la création et l’animation de sites Internet.</p>
+
+          <p>Après deux semaines de test intensives, les élèves décident si ils veulent
+          poursuive ou non la formation une fois leur décision prise  ils ont six mois
+          pour atteindre leur but : faire de la création et l’animation de sites Internet.</p>
+
+          <p>Après deux semaines de test intensives, les élèves décident si ils veulent
+          poursuive ou non la formation une fois leur décision prise  ils ont six mois
+          pour atteindre leur but : faire de la création et l’animation de sites Internet.</p>
 
           <p>Après deux semaines de test intensives, les élèves décident si ils veulent
           poursuive ou non la formation une fois leur décision prise  ils ont six mois
